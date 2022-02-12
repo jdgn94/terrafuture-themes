@@ -1,0 +1,32 @@
+{
+    "name": "terrafuture-themes",
+    "displayName": "terrafuture-themes",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Terrafuture Material Theme Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/material-dark-color-theme.json"
+            }
+        ]
+    },
+    "icon": "./icons/terrafuture-icon.png",
+    "author": {
+        "name": "Juan Daniel González Noriega",
+        "email": "jdgn@gmail.com",
+        "link": "https://www.linkedin.com/in/jdgn94"
+    },
+    "repository": {
+        "url": "",
+        "type": "git"
+    },
+    "publisher": "terrafuture-themes"
+}
