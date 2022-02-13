@@ -1,13 +1,20 @@
 {
     "name": "terrafuture-themes",
-    "displayName": "terrafuture-themes",
-    "description": "",
-    "version": "0.1.0",
+    "displayName": "Terrafuture Themes",
+    "description": "Themes dark an link to vs code",
+    "version": "0.2.0",
     "engines": {
-        "vscode": "^1.60.0"
+        "vscode": "^1.17.0"
     },
     "categories": [
-        "Themes"
+        "Themes",
+        "Visualization",
+        "Other"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "terrafuture"
     ],
     "contributes": {
         "themes": [
@@ -15,6 +22,11 @@
                 "label": "Terrafuture Material Theme Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/material-dark-color-theme.json"
+            },
+            {
+                "label": "Terrafuture Tokyo Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tokyo-night-color-theme.json"
             }
         ]
     },
@@ -24,9 +36,13 @@
         "email": "jdgn@gmail.com",
         "link": "https://www.linkedin.com/in/jdgn94"
     },
+    "homepage": "https://github.com/jdgn94/terrafuture-themes",
     "repository": {
-        "url": "https://github.com/jdgn94/terrafuture-themes.git",
+        "url": "https://github.com/jdgn94/terrafuture-themes",
         "type": "git"
+    },
+    "bugs": {
+        "url": "https://github.com/jdgn94/terrafuture-themes/issues"
     },
     "publisher": "terrafuture-themes"
 }

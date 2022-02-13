@@ -1,5 +1,9 @@
 {
 	"name": "Material Theme Dark",
+	"author": "Juan",
+	"maintainers": [
+		"Juan <jdgn94@gmail.com>"
+	],
 	"type": "dark",
 	"colors": {
 		"editor.background": "#1d212f",
@@ -7,10 +11,8 @@
 		"editor.lineHighlightBackground": "#343b52",
 		"editor.hoverHighlightBackground": "#343b52",
 		"editor.selectionBackground": "#343b52",
-		"editorError.background": "#f44336",
-		"editorError.foreground": "#1d212f",
-		"editorWarning.background": "#ffc107",
-		"editorWarning.foreground": "#1d212f",
+		"editorError.background": "#f4433640",
+		"editorWarning.background": "#ffc10740",
 		"editorWidget.background": "#272833",
 		"editorBracketHighlight.foreground1": "#eeffff",
 		"editorBracketHighlight.foreground2": "#F78C6C",
@@ -32,6 +34,8 @@
 		"editorBracketPairGuide.activeBackground5": "#82AAFF",
 		"editorBracketPairGuide.activeBackground6": "#FFCB6B",
 		"editorGroupHeader.tabsBackground": "#1d212f",
+		"titleBar.activeBackground": "#1d212f",
+		"titleBar.activeForeground": "#1d212f",
 		"toolbar.activeBackground": "#343b52",
 		"toolbar.hoverBackground": "#272833",
 		// "editorGutter.background": "#151723",
@@ -58,6 +62,7 @@
 		"sideBar.border": "#161924",
 		"sideBar.foreground": "#eeffff",
 		"statusBar.background": "#1d212f",
+		"statusBar.debuggingBackground": "#343b52",
 		"activityBar.activeBackground": "#161924",
 		"activityBar.activeBorder": "#eeffff",
 		"activityBar.background": "#1d212f",
