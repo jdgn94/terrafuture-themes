@@ -2,9 +2,9 @@
     "name": "terrafuture-themes",
     "displayName": "terrafuture-themes",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
-        "vscode": "^1.64.0"
+        "vscode": "^1.60.0"
     },
     "categories": [
         "Themes"
@@ -18,7 +18,7 @@
             }
         ]
     },
-    "icon": "./icons/terrafuture-icon.png",
+    "icon": "icons/terrafuture-icon.png",
     "author": {
         "name": "Juan Daniel González Noriega",
         "email": "jdgn@gmail.com",
