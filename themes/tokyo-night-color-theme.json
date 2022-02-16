@@ -282,8 +282,6 @@
     "terminal.background": "#16161e",
     "terminal.foreground": "#787c99",
     "terminal.selectionBackground": "#515c7e30",
-    // "terminalCursor.background": "",
-    // "terminalCursor.foreground": "",
     "terminal.ansiBlack": "#363b54",
     "terminal.ansiRed": "#f7768e",
     "terminal.ansiGreen": "#41a6b5",
