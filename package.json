@@ -2,13 +2,12 @@
     "name": "terrafuture-themes",
     "displayName": "Terrafuture Themes",
     "description": "Themes dark an link to vs code",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "engines": {
         "vscode": "^1.17.0"
     },
     "categories": [
         "Themes",
-        "Visualization",
         "Other"
     ],
     "keywords": [
